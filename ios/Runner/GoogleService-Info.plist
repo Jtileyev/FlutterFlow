@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCaoYy7N12vjhRO0knhGuh2fwbCOTS1wFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>423547561452</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.jarastest</string>
+	<key>PROJECT_ID</key>
+	<string>jarastest-cfa9c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jarastest-cfa9c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:423547561452:ios:d2238e1d0c98f9144a8cc9</string>
+</dict>
+</plist>

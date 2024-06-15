@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423547561452",
+    "project_id": "jarastest-cfa9c",
+    "storage_bucket": "jarastest-cfa9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423547561452:android:bbe9519708c95d6b4a8cc9",
+        "android_client_info": {
+          "package_name": "com.mycompany.jarastest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVi9IvwAu7qeAZE1Da-dcvkFcg2cOwAAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
